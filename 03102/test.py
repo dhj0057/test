@@ -8,20 +8,3 @@ me["age"] = 33
 me["skills"].append("javascript")
 print(f"나는 {me['skills'][0]}을 할줄안다.")
             
-
-
-
- 
-
-            
-       
-
-     
-          
-    
-    
-  
-        
-
-
-
